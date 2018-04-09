@@ -1,0 +1,76 @@
+@font-face {
+	src: url('../fonts/Lobster-Regular.ttf');
+	font-family: Lobster;
+}
+
+@font-face {
+	src: url('../fonts/ROBOTOSLAB-REGULAR.TTF');
+	font-family: Roboslab;
+}
+
+body {
+	font-family: Roboslab;
+}
+
+
+.form-body {
+  /*background-color: #444;*/
+  padding: 50px;
+}
+.form-body .form-container {
+  /*padding-left: 50px;*/
+  padding-left: 40px!important;
+  padding-top: 50px;
+}
+
+.form-container input {
+	height: 40px;
+	width: 95%;
+	font-size: 20px;
+  box-shadow: none;
+  border-color: hsla(0, 5%, 0%, 1);
+  border-width: 0 0 3px 0;
+  transition: all .5s ease-in;
+  outline:transparent;
+}
+
+.form-container form {
+	padding-top: 30px;
+	margin-top: 0!important;
+	/*border: 1px solid #ff667d;*/
+	border-radius: 0 0 5px 5px;
+	/*background-color: #654;*/
+}
+
+.form-img img {
+  width: 150px;
+}
+
+.form-header {
+	padding:  20px;
+	background-color: #ff667d;
+	color: #000;
+}
+
+.bordered {
+  border: 1px solid black;
+}
+.login-btn {
+	background: none;
+	border: none;
+	color: #404040;
+	font-size: 30px;
+	font-family: Lobster;
+
+}
+
+.theme-text {
+	color: #ff667d!important;
+}
+
+.welcome-msg {
+	font-family: Lobster;
+}
+.no-display {
+	display: none;
+}
