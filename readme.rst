@@ -1,8 +1,8 @@
-# Book Track
+###############Book Track############
 A personal virtual library. Store information of your books, record who borrowed them and when they're supposed to be returned so you won't be left wondering.
 
 
-## Frameworks and Tools Used/To be used
+****************Frameworks and Tools Used/To be used***************
 * [Codeigniter] (https://codeigniter.com/download) 
 * [Jquery](https://jquery.com/download/)
 * Ajax
